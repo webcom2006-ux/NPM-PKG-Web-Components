@@ -1,6 +1,6 @@
 {
   "name": "@webcom2006/npm-pkg-webcomponents",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web Component + greet utility",
   "author": "Santosh Kumar",
   "license": "ISC",
