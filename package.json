@@ -1,0 +1,23 @@
+{
+  "name": "@webcom2006/npm-pkg-webcomponents",
+  "version": "1.0.0",
+  "description": "Web Component + greet utility",
+  "author": "Santosh Kumar",
+  "license": "ISC",
+  "type": "module",
+  "main": "index.js",
+  "module": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "greet.js"
+  ],
+  "keywords": [
+    "web-components",
+    "greet",
+    "custom-elements"
+  ],
+  "sideEffects": true
+}
